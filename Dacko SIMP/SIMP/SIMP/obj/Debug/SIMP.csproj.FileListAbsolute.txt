@@ -1,0 +1,30 @@
+C:\Users\DLegend\source\repos\SIMP\SIMP\bin\Debug\SIMP.exe.config
+C:\Users\DLegend\source\repos\SIMP\SIMP\bin\Debug\SIMP.exe
+C:\Users\DLegend\source\repos\SIMP\SIMP\bin\Debug\SIMP.pdb
+C:\Users\DLegend\source\repos\SIMP\SIMP\obj\Debug\SIMP.csprojAssemblyReference.cache
+C:\Users\DLegend\source\repos\SIMP\SIMP\obj\Debug\SIMP.Form1.resources
+C:\Users\DLegend\source\repos\SIMP\SIMP\obj\Debug\SIMP.Properties.Resources.resources
+C:\Users\DLegend\source\repos\SIMP\SIMP\obj\Debug\SIMP.csproj.GenerateResource.cache
+C:\Users\DLegend\source\repos\SIMP\SIMP\obj\Debug\SIMP.csproj.CoreCompileInputs.cache
+C:\Users\DLegend\source\repos\SIMP\SIMP\obj\Debug\SIMP.exe
+C:\Users\DLegend\source\repos\SIMP\SIMP\obj\Debug\SIMP.pdb
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\bin\Debug\SIMP.exe.config
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\bin\Debug\SIMP.exe
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\bin\Debug\SIMP.pdb
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\obj\Debug\SIMP.csprojAssemblyReference.cache
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\obj\Debug\SIMP.Properties.Resources.resources
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\obj\Debug\SIMP.Form1.resources
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\obj\Debug\SIMP.csproj.GenerateResource.cache
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\obj\Debug\SIMP.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\obj\Debug\SIMP.exe
+D:\Visual Studio\Visual Studio Code\repos\SIMP\SIMP\obj\Debug\SIMP.pdb
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\bin\Debug\SIMP.exe.config
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\bin\Debug\SIMP.exe
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\bin\Debug\SIMP.pdb
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\obj\Debug\SIMP.csprojAssemblyReference.cache
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\obj\Debug\SIMP.Properties.Resources.resources
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\obj\Debug\SIMP.Form1.resources
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\obj\Debug\SIMP.csproj.GenerateResource.cache
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\obj\Debug\SIMP.csproj.CoreCompileInputs.cache
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\obj\Debug\SIMP.exe
+D:\Faculty\Semeseter 5\Software Engineering\Final Exam\Code\SIMP\SIMP\obj\Debug\SIMP.pdb
