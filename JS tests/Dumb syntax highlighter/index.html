@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Dumb syntax highlighter</title>
+</head>
+
+<style>
+    #text{
+        font-size: 1.5rem;
+    }
+</style>
+
+<body>
+    <span id="text"></span>
+    <br/>
+    <input id="input" type="text" oninput="updateText()">
+    <!-- <button onclick="updateText()">Highlight</button> -->
+</body>
+
+<script>
+    const keywordsObject = {
+        dacko: 'limegreen',
+        foksmash: 'red',
+        door: 'brown',
+        vanker: 'hotpink',
+        const: 'blue'
+    }
+
+    function updateText(){
+        text.textContent = input.value
+
+        // TODO add support for special characters that touch the words
+        let words = text.textContent.split(" ")
+        
+
+        /*===========================NORMAL/READABLE IMPLEMENTATION===========================*/
+        /* let keywords = Object.keys(keywordsObject);
+
+        for(let i = 0; i < words.length; i++){
+            if(keywords.includes(words[i].toLowerCase())){
+                words[i] = `<span style="color:${keywordsObject[words[i].toLowerCase()]}">${words[i]}</span>`
+            }
+        } */
+        /* ================================================================================= */
+
+        words = words.map(word => generateHighlightedSpan(word))
+
+        text.innerHTML = words.join(" ")
+    }
+
+    function generateHighlightedSpan(word){
+        if (keywordsObject[word.toLowerCase()]){
+            return `<span style="color:${keywordsObject[word.toLowerCase()]}">${word}</span>`
+        } else {
+            return word
+        }
+    }
+</script>
+</html>
