@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Dumb syntax highlighter</title>
+</head>
+
+<style>
+    html, body{
+        height: 97%;
+    }
+    #text{
+        font-size: 1.5rem;
+    }
+    .container{
+        height:100%;
+        display: flex;
+        justify-content: space-around;
+    }
+    .panel{
+        width: 28%;
+        height: 100%;
+        border: 1px solid black;
+        border-radius: 5px;
+        background-color: antiquewhite;
+        padding: 0.5rem;
+    }
+    .editable{
+        width: 68%;
+        background-color:floralwhite;
+        font-size: 1.5rem;
+        font-family: monospace;
+        white-space: pre-wrap;
+    }
+    .control{
+        display: flex;
+        align-items: flex-start;
+        justify-content: flex-end;
+    }
+    #addRule{
+        width: 2.5rem;
+        height: 2.5rem;
+        font-size: 1.5rem;
+    }
+    .dacko{
+        color:limegreen;
+    }
+    .code{
+        color:royalblue;
+    }
+    .gunther{
+        color:indianred
+    }
+</style>
+
+<body>
+    <!-- <span id="text"></span>
+    <br/>
+    <input id="input" type="text" oninput="updateText()">
+    <button onclick="updateText()">Highlight</button> -->
+    <div class="container">
+        <div id="editable" class="panel editable" contenteditable="true"></div>
+        <div class="panel control">
+            <div id="rules"></div>
+            <button id="addRule" onclick="addRule()">+</button>
+        </div>
+    </div>
+</body>
+
+<script src="script.js"></script>
+</html>
